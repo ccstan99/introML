@@ -64,4 +64,4 @@ decision trees as a building block.
 
 ## Notebook
 
-Try out some code by running the [Intro to ML Colab Notebook](./Women_Techmakers_Intro_to_ML.ipynb)
+Try out some code by running the [Intro to ML Colab Notebook](./WTM23_introML.ipynb)
